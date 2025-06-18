@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3JoY210a3NtcDNiY3UzazR2czVtYW4xZ3M1MTRxNnRuZmU3bmZtZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EnE1VoS7brornFafDE/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='[https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3JoY210a3NtcDNiY3UzazR2czVtYW4xZ3M1MTRxNnRuZmU3bmZtZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EnE1VoS7brornFafDE/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExenBjd3B1dXA0ejBtZTZ5MXE2N3U2MHU2MDZjNXBlM2k5bHF3OGlseCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iSYl6LIsrYCc5EgqER/giphy.gif)' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LICEcap
